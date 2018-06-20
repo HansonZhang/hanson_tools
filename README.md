@@ -1,5 +1,6 @@
 # hanson_tools
 #This tool is used to delete dumplicate lines in smali files.
+
 #eg: const v0, 0x0
 #    const v0, 0x1
 #or:
